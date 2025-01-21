@@ -39,7 +39,8 @@ namespace ConsoleApp3
 
         static void Szazalek()
         {
-
+            Console.WriteLine($"{num0} % --> {num1} = {(num0 / num1)*100}");
+            Indit();
         }
 
         static void Sugo()
