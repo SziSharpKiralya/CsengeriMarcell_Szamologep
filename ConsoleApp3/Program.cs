@@ -33,7 +33,8 @@ namespace ConsoleApp3
 
         static void Szorzas()
         {
-
+            Console.WriteLine($"{num0} * {num1} = {num0 * num1}");
+            Indit();
         }
 
         static void Szazalek()
