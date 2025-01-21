@@ -15,7 +15,8 @@ namespace ConsoleApp3
 
         static void Osszeadas()
         {
-
+            Console.WriteLine($"{num0} + {num1} = {num0+num1}");
+            Indit();
         }
 
         static void Kivonas()
